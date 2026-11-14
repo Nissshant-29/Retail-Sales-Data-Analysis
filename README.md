@@ -46,6 +46,9 @@ This project analyzes retail sales data using Python, SQL, SQLite and Power BI t
    pip install -r requirements.txt
 3. Run:
    python analyze_sales.py
+   ## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
 
 ## Author
 Nishant Kumar Roshan
